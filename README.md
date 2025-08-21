@@ -3,6 +3,10 @@
   <img src="assets/preview-jokenpo.png" alt="Preview do Jokenpô" width="600">
 </p>
 
+
+## 🌍 Demo Online
+[Jogar Jokenpô](https://caiofabioc.github.io/jokenp/)
+
 ## 👊📄✂️ Jokenpô
 
 Um simples jogo de **Pedra, Papel e Tesoura** feito com **HTML, CSS e JavaScript**.  
