@@ -1,3 +1,8 @@
+## 📸 Preview
+<p align="center">
+  <img src="assets/preview-jokenpo.png" alt="Preview do Jokenpô" width="600">
+</p>
+
 ## 👊📄✂️ Jokenpô
 
 Um simples jogo de **Pedra, Papel e Tesoura** feito com **HTML, CSS e JavaScript**.  
@@ -19,6 +24,3 @@ O jogador escolhe uma opção e o computador responde com uma jogada aleatória.
 - Mostra resultado de cada rodada (ganhou, perdeu ou empatou).  
 - Placar em tempo real.  
 - Interface simples e responsiva.
-
-## 📸 Preview
-![Preview do Jokenpô](preview-jokenpo.png)
